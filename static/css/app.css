@@ -1,17 +1,31 @@
 body {
   font-family: sans-serif;
-  font-size: 20px;
+  font-size: 14px;
   line-height: 1.5;
+  background-color: lightblue;
 }
 
 .container {
   max-width: 960px;
   margin: 0 auto;
-  background-color: midnightblue;
+ 
 }
-head{
-   color: white;
+h1{
+   color:midnightblue;
+   font-size: 30px;
+   font-family: fantasy;
 }
-.p{
-color: aliceblue;
+p{
+color: midnightblue;
+font-size: 20px;
+text-align: justify;
+text-justify: inter-word;
+
+}
+img {
+  border-radius: 8px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
